@@ -1,6 +1,14 @@
-# flutter_list
+# The Job Finder UI
 
-A new Flutter project.
+UI of Job Finder. Developed using Flutter
+
+## 📱 Screen Shots
+<img src="https://user-images.githubusercontent.com/88416263/161409999-12288011-4061-492f-b627-6e533aa4f68b.png" width=180>  <img src="https://user-images.githubusercontent.com/88416263/161410035-a5ec0a56-2add-49c1-ab82-49b6a708fc4a.png" width=180>  <img src="https://user-images.githubusercontent.com/88416263/161410038-044f092f-48e9-47ed-87bf-c7c81f34af95.png" width=180> 
+
+Work through this YouTube tutorial:
+
+- Part 1: https://youtu.be/-x6YQLteq1M
+- Part 2: https://youtu.be/LmKRlMIQ_00
 
 ## Getting Started
 
